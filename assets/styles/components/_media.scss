@@ -1,0 +1,7 @@
+$accent: red;
+$h1: 54px;
+
+@mixin title {
+    font-size: $h1;
+    color: $accent;
+}

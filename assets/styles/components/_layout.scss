@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    margin: 0;
+}
+
+h1 {
+    @include title
+}
+
+.container {
+    max-width: 940px;
+    width: 98%;
+    margin: 0 auto;
+}
+
+section {
+    height: 100vh;
+    
+} 

@@ -1,0 +1,6 @@
+.hero {
+    background-color: yellow;
+    & header {
+        background-color: blue;
+    }
+}

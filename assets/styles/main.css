@@ -1,0 +1,31 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body, html {
+  margin: 0;
+}
+
+h1 {
+  font-size: 54px;
+  color: red;
+}
+
+.container {
+  max-width: 940px;
+  width: 98%;
+  margin: 0 auto;
+}
+
+section {
+  height: 100vh;
+}
+
+.hero {
+  background-color: yellow;
+}
+.hero header {
+  background-color: blue;
+}
+/*# sourceMappingURL=main.css.map */
